@@ -103,7 +103,7 @@ int main()
 
     outtextxy(190, 55, (char*)"DDA Line Drawing Algorithm");
     outtextxy(140, 80,
-              (char*)"Name: Aishwarya Kumar Singh | Roll No: IC-2K24-08");
+              (char*)"Name: kartik | Roll No: IC-2K24-42");
 
     // Draw boundary of drawing area
     setcolor(RED);
