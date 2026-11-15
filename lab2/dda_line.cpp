@@ -1,14 +1,3 @@
-
-/*
- * CGM Lab Assignment - 2
- * Question: Write a C/C++ program using a graphics library or tool
- * to implement the Digital Differential Analyzer (DDA) Line Drawing
- * Algorithm to draw a straight line between two given points.
- *
- * SUBMITTED BY : AISHWARYA KUMAR SINGH
- * Roll No      : IC-2K24-08
-*/
-
 #include <graphics.h>
 #include <stdio.h>
 #include <stdlib.h>
